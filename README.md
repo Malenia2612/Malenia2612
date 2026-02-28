@@ -37,4 +37,5 @@ Aplicar ainda mais SOLID e Clean Code em projetos reais
 Melhorar documentação técnica e organização de projetos
 
 📌 Sempre aberto a oportunidades como Desenvolvedor Java Júnior
+
 📫 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/william-barcelos-rosa-024b01234/
