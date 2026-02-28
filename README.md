@@ -1,16 +1,40 @@
-## Hi there 👋
+##👋 Olá, eu sou William Barcelos
 
-<!--
-**Malenia2612/Malenia2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Java
+🎓 Formado em Análise e Desenvolvimento de Sistemas (2025)
+📚 Iniciei meus estudos na área em 2022
 
-Here are some ideas to get you started:
+Sou desenvolvedor focado em Backend com Java, sempre buscando escrever código limpo, organizado e escalável. Tenho paixão por aprender e evoluir constantemente minhas habilidades técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Habilidades Atuais
+
+☕ Java
+
+🧱 Programação Orientada a Objetos (POO)
+
+🗄️ SQL
+
+🌱 Spring Boot
+
+🔐 Conceitos de segurança em aplicações
+
+🧩 Princípios SOLID
+
+🧼 Clean Code
+
+📄 Boas práticas de documentação
+
+🎯 Objetivos Profissionais
+
+Aprofundar conhecimentos em Spring Boot e Spring Security
+
+Estudar Kotlin como próxima linguagem
+
+Evoluir em arquitetura de software
+
+Aplicar ainda mais SOLID e Clean Code em projetos reais
+
+Melhorar documentação técnica e organização de projetos
+
+📌 Sempre aberto a oportunidades como Desenvolvedor Java Júnior
+📫 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/william-barcelos-rosa-024b01234/
