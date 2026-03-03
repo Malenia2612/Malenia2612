@@ -28,8 +28,6 @@ Sou desenvolvedor focado em Backend com Java, sempre buscando escrever código l
 
 Aprofundar conhecimentos em Spring Boot e Spring Security
 
-Estudar Kotlin como próxima linguagem
-
 Evoluir em arquitetura de software
 
 Aplicar ainda mais SOLID e Clean Code em projetos reais
