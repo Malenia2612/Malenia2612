@@ -1,39 +1,53 @@
-##👋 Olá, eu sou William Barcelos
+## 👋 Olá, eu sou William Barcelos
 
-💻 Desenvolvedor Java
-🎓 Formado em Análise e Desenvolvimento de Sistemas (2025)
-📚 Iniciei meus estudos na área em 2022
+💻 Desenvolvedor Backend Java  
+🎓 Formado em Análise e Desenvolvimento de Sistemas (2025)  
+📚 Estudando programação desde 2022  
 
-Sou desenvolvedor focado em Backend com Java, sempre buscando escrever código limpo, organizado e escalável. Tenho paixão por aprender e evoluir constantemente minhas habilidades técnicas.
+Sou desenvolvedor focado em Backend com Java, com experiência em construção de aplicações utilizando boas práticas como Clean Code e SOLID. Busco sempre escrever código limpo, organizado e escalável, além de evoluir continuamente minhas habilidades técnicas.
 
-🚀 Habilidades Atuais
+---
 
-☕ Java
+### 🚀 Stack Principal
 
-🧱 Programação Orientada a Objetos (POO)
+- ☕ Java  
+- 🌱 Spring Boot  
+- 🗄️ SQL  
+- 🧱 Programação Orientada a Objetos (POO)  
+- 🧩 SOLID & Clean Code  
 
-🗄️ SQL
+---
 
-🌱 Spring Boot
+### 🧠 Conhecimentos
 
-🔐 Conceitos de segurança em aplicações
+- 🔐 Conceitos de segurança em aplicações  
+- 📄 Boas práticas de documentação  
+- 🔄 Versionamento com Git  
 
-🧩 Princípios SOLID
+---
 
-🧼 Clean Code
+### 🎯 Objetivo
 
-📄 Boas práticas de documentação
+Atuar como Desenvolvedor Java Júnior, contribuindo em projetos reais enquanto evoluo em:
+- Arquitetura de software  
+- Spring Security  
+- Boas práticas de desenvolvimento backend  
 
-🎯 Objetivos Profissionais
+---
 
-Aprofundar conhecimentos em Spring Boot e Spring Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-Evoluir em arquitetura de software
+---
+📌 Aberto a oportunidades como Desenvolvedor Java Júnior  
+📫 LinkedIn: 
 
-Aplicar ainda mais SOLID e Clean Code em projetos reais
+<div> 
+  <a href="https://www.linkedin.com/in/william-barcelos-rosa-024b01234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-Melhorar documentação técnica e organização de projetos
-
-📌 Sempre aberto a oportunidades como Desenvolvedor Java Júnior
-
-📫 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/william-barcelos-rosa-024b01234/
+ 
